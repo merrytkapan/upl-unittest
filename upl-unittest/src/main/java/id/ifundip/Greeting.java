@@ -1,6 +1,6 @@
 package id.ifundip;
 
-public class Hello {
+public class Greeting {
 	public String sayHello() {
 		return "Hello";
 	}
